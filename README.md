@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+# 📗 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-## Available Scripts
+# 📖 [Portfolio] <a name="about-project"></a>
 
-In the project directory, you can run:
+> A portfolio is similar to a CV. Both showcase a set of skills and qualifications required for a prospective role. The CV provides a relevant overview of qualifications and experience whereas a portfolio provides the evidence.
 
-### `npm start`
+## 🛠 Built With <a name="built-with"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Tech Stack <a name="tech-stack"></a>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Key Features <a name="key-features"></a>
 
-### `npm test`
+- **Display all projects**
+- **Enlist skill sets and tech stack**
+- **Contact form**
+- **Responsive Design**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-### `npm run build`
+Click here to see the [Live Demo]() of the website 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Getting Started <a name="getting-started"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get a local copy up and running follow these simple example steps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+In order to run this project you need:
+- Vistual Studio Code
+- Browser (Firefox / Google Chrome)
+- Node.js (v6.11.2+)
+- linters
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone this repository to your desired folder:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```sh
+  cd my-folder
+  git clone git@github.com:shella12/portfolio.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Install
 
-## Learn More
+```sh
+ npm install --save -dev
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Start server
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+``` npm start ```
 
-### Code Splitting
+## 👥 Authors <a name="authors"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GitHub: [@shella12](https://github.com/shella12)
+- Twitter: [@Ayesha Arshad](https://twitter.com/AyeshaA03712974)
+- LinkedIn: [Ayesha Arshad](https://www.linkedin.com/in/ayesha-arshad-a690a015a/)
 
-### Analyzing the Bundle Size
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions, issues, and feature requests are welcome!
 
-### Making a Progressive Web App
+Feel free to check the [issues page](../../issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ⭐️ Show your support <a name="support"></a>
 
-### Advanced Configuration
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## ❓ FAQ <a name="faq"></a>
 
-### Deployment
+- **[Why use this app?]**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  - [To see the demo of my skill sets and view the projects I have done]
 
-### `npm run build` fails to minify
+- **[Why build this app?]**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  - [To showcase professional skill sets]
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
