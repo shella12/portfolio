@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click here to see the [Live Demo]() of the website 
+Click here to see the [Live Demo](https://frabjous-pudding-2f0349.netlify.app/) of the website 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
